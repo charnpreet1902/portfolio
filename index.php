@@ -2,8 +2,6 @@
 
 <html>
 
-
-  
   <head>
 
     <title>Portfolio- Charnpreet singh</title>
